@@ -1,0 +1,11 @@
+20231219	10:57:35	4ae7314b-4776-4ff8-b7b9-0314792e0900	Error:Not allowed by CORS	/auth/refresh	GET	http://localhost:5173
+20231219	10:58:15	b3360b4c-1bd3-406a-a106-314d1e0579e6	Error:Not allowed by CORS	/auth/refresh	GET	http://localhost:5173
+20231219	16:17:34	c1a0a3d8-7785-4c15-8055-498bb53f6048	Error:Not allowed by CORS	/auth	OPTIONS	http://localhost:5173
+20231219	16:17:35	1b924d4d-8ec8-4e1c-b649-374903e2aef6	Error:Not allowed by CORS	/auth	OPTIONS	http://localhost:5173
+20231219	16:17:36	2659bbac-919c-4119-88fe-0f0eb5e1a99c	Error:Not allowed by CORS	/auth	OPTIONS	http://localhost:5173
+20231219	16:17:36	1e60e629-72c9-4eb3-bb04-d333b73c54dc	Error:Not allowed by CORS	/auth	OPTIONS	http://localhost:5173
+20231219	16:20:03	142e1217-bf5e-4eb3-a050-56c2c92951e1	ReferenceError:asyncHandler is not defined	/auth/refresh	GET	http://localhost:5173
+20231219	16:20:18	6603ab5e-c592-4877-8811-3eb69ec98340	ReferenceError:asyncHandler is not defined	/auth/refresh	GET	http://localhost:5173
+20231219	16:20:21	51a3a47a-bf00-4cd0-92d4-0b42630e4ede	ReferenceError:asyncHandler is not defined	/auth/refresh	GET	http://localhost:5173
+20231219	16:32:09	8dbce361-5f1d-4760-a853-7fa6acf1f655	ReferenceError:asyncHandler is not defined	/auth/refresh	GET	http://localhost:5173
+20231219	17:05:56	52ccc835-1153-4525-91d8-558d222c2e3b	MongoServerSelectionError:getaddrinfo ENOTFOUND ac-mood69b-shard-00-00.p1lc5ib.mongodb.net	/notes	GET	http://localhost:5173
