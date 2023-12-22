@@ -1,6 +1,6 @@
 
 const allowedOrigins = [
-   "https://technotes-p5v1.onrender.com"
+   "https://technotes-sandy.vercel.app"
   ]
   
   
